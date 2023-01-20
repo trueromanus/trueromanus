@@ -1,4 +1,4 @@
-Hello and welcome to my personal repository! 👋
+Hello and welcome! 👋
 #### My current projects:
 - [ArdorQuery](https://github.com/trueromanus/ArdorQuery), cross platform desktop tool for testing Rest(ful)APIs and websites.
 - [ProxyEmy](https://github.com/trueromanus/ProxyEmy), cross platform desktop tool for organizing local proxies.
