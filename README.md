@@ -4,7 +4,7 @@ Hello and welcome! 👋
 - [ProxyEmy](https://github.com/trueromanus/ProxyEmy), cross platform desktop tool for organizing local proxies.
 - [ProvueCoreComponents](https://github.com/P-RCollaboration/ProvueCoreComponents), set for creating you own components based on Vue.js library
 - [Nerv](https://github.com/trueromanus/Nerv), ultra light reactive library for XAML-binding applications for NETStandart 2.0
-- [Anilibria.Qt](https://github.com/anilibria/anilibria-winmaclinux), cross platform desktop client for website [https://anilibria.tv](AniLibria.tv)
+- [Anilibria.Qt](https://github.com/anilibria/anilibria-winmaclinux), cross platform desktop client for website [AniLibria.tv](https://www.anilibria.tv)
 
 You can also check my [nuget packages](https://www.nuget.org/profiles/RomanAsylum) and [npm packages](https://www.npmjs.com/~trueromanus)
 #### My skills:
