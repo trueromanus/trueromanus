@@ -8,6 +8,9 @@ I'm professional developer with 15+ years experience working with Web, Desktop a
 - [Anilibria.Qt](https://github.com/anilibria/anilibria-winmaclinux), cross platform desktop client for website [AniLibria.tv](https://www.anilibria.tv)
 
 You can also check my [nuget packages](https://www.nuget.org/profiles/RomanAsylum) and [npm packages](https://www.npmjs.com/~trueromanus)
+
+![image](https://github-profile-trophy.vercel.app/?username=trueromanus&column=4&row=2)
+
 #### My skills:
 - Full stack web development - frontend (JavaScript, TypeScript, ES6+, Angular[.js], React, Vue.js) backend (JS node.js, C# ASP.NET, go[lang])
 - Cross platform desktop development - C# & WinForms/WPF/UWP, C++ & Qt[5-6]/QML
