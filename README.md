@@ -1,4 +1,5 @@
 Hello and welcome! 👋
+I'm professional developer with 15+ years experience working with Web, Desktop and Mobile applications.
 #### My current projects:
 - [ArdorQuery](https://github.com/trueromanus/ArdorQuery), cross platform desktop tool for testing Rest(ful)APIs and websites.
 - [ProxyEmy](https://github.com/trueromanus/ProxyEmy), cross platform desktop tool for organizing local proxies.
