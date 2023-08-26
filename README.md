@@ -15,7 +15,7 @@ You can also check my [nuget packages](https://www.nuget.org/profiles/RomanAsylu
 - Full stack web development - frontend (JavaScript, TypeScript, ES6+, Angular[.js], React, Vue.js) backend (JS node.js, C# ASP.NET, go[lang])
 - Cross platform desktop development - C# & WinForms/WPF/UWP, C++ & Qt[5-6]/QML
 - Cross platform mobile development - C++ & Qt, Dart & Flutter
-- IDEs - Visual Studio, Visual Studio Code, Qt Creator
+- IDEs - Visual Studio, Visual Studio Code, Qt Creator, Android Studio
 - Operating systems - Windows 7+, Linux (Debian, Ubuntu, Mint, Fedora), macOS
 #### My current interest:
 - Learning Rust language
