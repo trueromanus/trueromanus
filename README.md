@@ -20,4 +20,4 @@ You can also check my [nuget packages](https://www.nuget.org/profiles/RomanAsylu
 - Operating systems - Windows 7+, Linux (Debian, Ubuntu, Mint, Fedora), macOS
 #### My current interest:
 - Learning Rust language
-- Learning a network at lower level
+- Learning LLVM
