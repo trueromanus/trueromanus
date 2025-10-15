@@ -11,7 +11,7 @@ I'm professional developer with 15+ years experience working with Web, Desktop a
 
 You can also check my [nuget packages](https://www.nuget.org/profiles/RomanAsylum) and [npm packages](https://www.npmjs.com/~trueromanus)
 
-![image](https://github-profile-trophy.vercel.app/?username=trueromanus&column=4&row=2)
+![image](https://github-profile-trophy-roan.vercel.app/?username=trueromanus&column=4&row=2)
 
 #### My skills:
 - Full stack web development - frontend (JavaScript, TypeScript, ES6+, Angular[.js], React, Vue.js) backend (JS node.js, C# ASP.NET, go[lang])
