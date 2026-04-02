@@ -3,11 +3,12 @@ I'm professional developer with 15+ years experience working with Web, Desktop a
 #### My current projects:
 - [ArdorQuery](https://github.com/trueromanus/ArdorQuery), cross platform desktop tool for testing Rest(ful)APIs and websites (analog cURL and Postman).
 - [TorrentStream](https://github.com/trueromanus/TorrentStream), simple web server for streaming torrent files in video players (like VLC, MPC-HC, etc).
+- [SciterAPI](https://github.com/EmptyFlow/SciterAPI), binding and low level hempers for Sciter library.
+- [Anilibria.Qt](https://github.com/anilibria/anilibria-winmaclinux), cross platform desktop client for website [AniLibria.tv](https://www.anilibria.tv)
 - [FlowCommandLine](https://github.com/EmptyFlow/FlowCommandLine), a fast and simple command line parser supported trimming/nativeAot.
 - [ProxyEmy](https://github.com/trueromanus/ProxyEmy), cross platform desktop tool for organizing local proxies.
 - [ProvueCoreComponents](https://github.com/P-RCollaboration/ProvueCoreComponents), set for creating you own components based on Vue.js library
 - [Nerv](https://github.com/trueromanus/Nerv), ultra light reactive library for XAML-binding applications for NETStandart 2.0
-- [Anilibria.Qt](https://github.com/anilibria/anilibria-winmaclinux), cross platform desktop client for website [AniLibria.tv](https://www.anilibria.tv)
 
 You can also check my [nuget packages](https://www.nuget.org/profiles/RomanAsylum) and [npm packages](https://www.npmjs.com/~trueromanus)
 
